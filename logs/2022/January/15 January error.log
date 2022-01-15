@@ -1,0 +1,36 @@
+Traceback (most recent call last):
+  File "server.py", line 109, in <module>
+    site = server.Site(hatena.Setup())
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 198, in Setup
+    root = Root()
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 50, in __init__
+    self.dsResource = ds()
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 81, in __init__
+    self.region = UgoRoot()
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 97, in __init__
+    LoadHatenadirStructure(self)
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 193, in LoadHatenadirStructure
+    LoadHatenadirStructure(folder, os.path.join(path, foldername))
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 174, in LoadHatenadirStructure
+    Resource.putChild(filename[:-3], UGOXMLResource(os.path.join(path, filename)))
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 148, in __init__
+    self.ugofile = self.ugofile.Pack()
+AttributeError: 'bool' object has no attribute 'Pack'
+Traceback (most recent call last):
+  File "server.py", line 109, in <module>
+    site = server.Site(hatena.Setup())
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 198, in Setup
+    root = Root()
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 50, in __init__
+    self.dsResource = ds()
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 81, in __init__
+    self.region = UgoRoot()
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 97, in __init__
+    LoadHatenadirStructure(self)
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 193, in LoadHatenadirStructure
+    LoadHatenadirStructure(folder, os.path.join(path, foldername))
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 174, in LoadHatenadirStructure
+    Resource.putChild(filename[:-3], UGOXMLResource(os.path.join(path, filename)))
+  File "C:\Users\purpe\Desktop\hatena-server-master\hatena.py", line 148, in __init__
+    self.ugofile = self.ugofile.Pack()
+AttributeError: 'bool' object has no attribute 'Pack'

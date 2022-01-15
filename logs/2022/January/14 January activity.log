@@ -1,0 +1,163 @@
+[16:33:00] Server startup...
+
+[16:33:53] 192.168.50.49 performed a connection test
+[16:34:39] 192.168.50.49 requested en/eula.txt
+[16:34:40] 192.168.50.49 requested en/confirm/upload.txt
+[16:34:40] 192.168.50.49 requested en/confirm/download.txt
+[16:34:41] 192.168.50.49 requested en/confirm/delete.txt
+[16:34:42] 192.168.50.49 requested eula_list.tsv
+[16:34:47] 192.168.50.49 requested index.ugo
+[16:34:51] 192.168.50.49 got 404 when requesting "/ds/v2-xx/help/WIP.htm"
+[16:34:54] 192.168.50.49 requested help/News.htm
+[16:34:59] 192.168.50.49 got 404 when requesting "/ds/v2-xx/frontpage/flipnotes.ugo"
+[16:35:13] 192.168.50.49 requested index.ugo
+[16:36:37] Server shutdown
+[16:36:40] Server startup...
+
+[16:37:01] 192.168.50.49 requested index.ugo
+[16:37:05] 192.168.50.49 requested help/WIP.htm
+[16:37:13] 192.168.50.49 got 404 when requesting "/ds/v2-xx/frontpage/flipnotes.ugo"
+[16:37:32] Server shutdown
+[16:37:36] Server startup...
+
+[16:37:48] 192.168.50.49 requested index.ugo
+[16:37:51] 192.168.50.49 got 404 when requesting "/ds/v2-xx/frontpage/newsmovies.ugo"
+[16:38:26] Server shutdown
+[16:38:30] Server startup...
+
+[16:38:45] 192.168.50.49 requested index.ugo
+[16:38:51] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[16:38:53] 192.168.50.49 requested movie/913304C0CC74CC1F/74CC1F_0D3AA40F2B3A0_000.info
+[16:38:54] 192.168.50.49 requested movie/913304C0CC74CC1F/74CC1F_0D3AA40F2B3A0_000.ppm
+[16:38:57] 192.168.50.49 requested movie/913304C0CC74CC1F/74CC1F_0D3AA40F2B3A0_000.info
+[16:38:58] 192.168.50.49 requested movie/913304C0CC74CC1F/74CC1F_0D3AA40F2B3A0_000.ppm
+[16:39:03] 192.168.50.49 requested movie/913304C0CC74CC1F/74CC1F_0D3AA40F2B3A0_000.info
+[16:39:03] 192.168.50.49 requested movie/913304C0CC74CC1F/74CC1F_0D3AA40F2B3A0_000.ppm
+[16:39:24] 192.168.50.49 requested help/post_howto.htm
+[16:40:38] Server shutdown
+[16:40:44] Server startup...
+
+[16:40:59] 192.168.50.49 requested index.ugo
+[16:41:01] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[16:41:03] 192.168.50.49 requested help/post_howto.htm
+[16:41:04] 192.168.50.49 requested post.ugo
+[16:41:07] 192.168.50.49 requested help/WIP.htm
+[16:41:10] 192.168.50.49 requested post.ugo
+[16:41:11] 192.168.50.49 requested help/post_howto.htm
+[16:41:12] 192.168.50.49 requested post.ugo
+[16:41:14] 192.168.50.49 requested help/post_howto.htm
+[16:41:16] 192.168.50.49 requested post.ugo
+[16:42:16] Server shutdown
+[19:51:55] Server startup...
+
+[19:53:15] 192.168.50.49 performed a connection test
+[19:54:40] 192.168.50.49 requested en/eula.txt
+[19:54:40] 192.168.50.49 requested en/confirm/upload.txt
+[19:54:41] 192.168.50.49 requested en/confirm/download.txt
+[19:54:41] 192.168.50.49 requested en/confirm/delete.txt
+[19:54:42] 192.168.50.49 requested index.ugo
+[19:54:46] 192.168.50.49 requested help/FAQ.htm
+[19:54:57] 192.168.50.49 requested help/News.htm
+[19:55:06] 192.168.50.49 requested help/WIP.htm
+[19:55:08] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[19:55:10] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_149B2F03933D2_000.info
+[19:55:10] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_149B2F03933D2_000.ppm
+[19:55:23] 192.168.50.49 requested help/post_howto.htm
+[19:55:25] 192.168.50.49 requested post.ugo
+[19:55:26] 192.168.50.49 requested help/WIP.htm
+[19:55:28] 192.168.50.49 requested post.ugo
+[19:55:48] 192.168.50.49 successfully uploaded "E8BAC3_149B2F0ED9EBC_000.ppm"
+[19:55:50] 192.168.50.49 requested post.ugo
+[19:56:17] 192.168.50.49 requested post.ugo
+[19:56:19] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[19:56:21] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_149B2F0ED9EBC_000.info
+[19:56:22] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_149B2F0ED9EBC_000.ppm
+[19:58:21] 192.168.50.49 requested index.ugo
+[19:58:27] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[19:58:29] 192.168.50.49 requested help/post_howto.htm
+[19:58:31] 192.168.50.49 requested post.ugo
+[19:58:41] 192.168.50.49 successfully uploaded "E8BAC3_14B3E42B7E7BB_000.ppm"
+[19:58:43] 192.168.50.49 requested post.ugo
+[19:58:56] 192.168.50.49 successfully uploaded "E8BAC3_14B3E437A9705_000.ppm"
+[19:58:59] 192.168.50.49 requested post.ugo
+[19:59:01] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[19:59:03] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E437A9705_000.info
+[19:59:04] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E437A9705_000.ppm
+[19:59:26] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.info
+[19:59:27] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.ppm
+[19:59:52] 192.168.50.49 requested movie/913304C0CC74CC1F/74CC1F_0D3AA40F2B3A0_000.info
+[19:59:53] 192.168.50.49 requested movie/913304C0CC74CC1F/74CC1F_0D3AA40F2B3A0_000.ppm
+[19:59:54] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E437A9705_000.info
+[19:59:55] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E437A9705_000.ppm
+[19:59:58] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.info
+[19:59:59] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.ppm
+[20:00:18] 192.168.50.49 added 30 stars to 9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.ppm
+[20:00:19] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[20:00:21] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_149B2F03933D2_000.info
+[20:00:21] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_149B2F03933D2_000.ppm
+[20:00:23] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.info
+[20:00:24] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.ppm
+[20:00:27] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[20:00:29] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.info
+[20:00:30] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.ppm
+[20:01:13] 192.168.50.49 requested help/post_howto.htm
+[20:01:15] 192.168.50.49 requested post.ugo
+[20:01:17] 192.168.50.49 requested help/WIP.htm
+[20:01:20] 192.168.50.49 requested post.ugo
+[20:06:49] Server startup...
+
+[20:08:30] Server startup...
+
+[20:09:29] Server startup...
+
+[20:13:52] Server startup...
+
+[20:14:33] Server startup...
+
+[20:14:39] Server shutdown
+[20:15:13] Server startup...
+
+[20:16:15] Server startup...
+
+[20:16:18] Server shutdown
+[20:17:18] Server startup...
+
+[20:18:56] 192.168.50.49 requested en/eula.txt
+[20:18:57] 192.168.50.49 requested en/confirm/upload.txt
+[20:18:57] 192.168.50.49 requested en/confirm/download.txt
+[20:18:58] 192.168.50.49 requested en/confirm/delete.txt
+[20:18:58] 192.168.50.49 requested index.ugo
+[20:19:02] 192.168.50.49 requested help/FAQ.htm
+[20:19:07] 192.168.50.49 requested help/News.htm
+[20:19:12] 192.168.50.49 requested help/WIP.htm
+[20:19:15] 192.168.50.49 requested help/WIP.htm
+[20:19:18] 192.168.50.49 requested help/News.htm
+[20:19:20] 192.168.50.49 requested help/FAQ.htm
+[20:19:22] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[20:19:25] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.info
+[20:19:26] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.ppm
+[20:20:21] 192.168.50.49 added 10 green stars to 9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.ppm
+[20:20:21] 192.168.50.49 added 2 red stars to 9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.ppm
+[20:20:22] 192.168.50.49 added 16 blue stars to 9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.ppm
+[20:20:22] 192.168.50.49 added 50 purple stars to 9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.ppm
+[20:20:23] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[20:21:29] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E437A9705_000.info
+[20:21:29] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E437A9705_000.ppm
+[20:21:51] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.info
+[20:21:51] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_14B3E42B7E7BB_000.ppm
+[20:21:53] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_149B2F0ED9EBC_000.info
+[20:21:54] 192.168.50.49 requested movie/9151D6A051E8BAC3/E8BAC3_149B2F0ED9EBC_000.ppm
+[20:22:02] 192.168.50.49 requested inbox.ugo
+[20:22:13] 192.168.50.49 requested help/info.htm
+[20:22:52] 192.168.50.49 requested inbox.ugo
+[20:22:59] 192.168.50.49 requested help/News.htm
+[20:23:03] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[20:23:05] 192.168.50.49 requested help/post_howto.htm
+[20:23:06] 192.168.50.49 requested post.ugo
+[20:24:28] 192.168.50.49 successfully uploaded "E8BAC3_14B3E72A71BBE_000.ppm"
+[20:24:31] 192.168.50.49 requested post.ugo
+[20:24:33] 192.168.50.49 requested help/post_howto.htm
+[20:24:35] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[20:24:38] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[20:25:09] 192.168.50.49 requested frontpage/newmovies.ugo page 1
+[20:25:14] 192.168.50.49 requested help/FAQ.htm

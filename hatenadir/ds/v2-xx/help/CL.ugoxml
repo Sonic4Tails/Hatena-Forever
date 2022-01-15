@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ugo_xml>
+	<layout>
+		<value>0</value>
+	</layout>
+	<title>
+		<label />
+		<label />
+		<label />
+		<label />
+		<label />
+		<num>0</num>
+	</title>
+	<button>
+		<label>Free Audio</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/help/WIP.htm</address>
+		<trait>0</trait>
+		<value />
+		<embedded_file>__ntfts/News.ntft</embedded_file>
+	</button>
+	<button>
+		<label>Mini-Flipnotes</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/help/WIP.htm</address>
+		<trait>0</trait>
+		<value />
+		<embedded_file>__ntfts/News.ntft</embedded_file>
+	</button>
+	<button>
+		<label>Mario</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/help/WIP.htm</address>
+		<trait>0</trait>
+		<value />
+		<embedded_file>__ntfts/News.ntft</embedded_file>
+	</button>
+	<button>
+		<label>Sonic</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/help/WIP.htm</address>
+		<trait>0</trait>
+		<value />
+		<embedded_file>__ntfts/News.ntft</embedded_file>
+	</button>
+</ugo_xml>

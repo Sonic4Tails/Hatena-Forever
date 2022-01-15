@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<ugo_xml>
+	<layout>
+		<value>0</value>
+	</layout>
+	<title>
+		<label />
+		<label />
+		<label />
+		<label />
+		<label />
+		<num>0</num>
+	</title>
+	<button>
+		<label>All Flipnotes</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/frontpage/newmovies.uls</address>
+		<trait>100</trait>
+		<value />
+		<value>1</value>
+	</button>
+	<button>
+		<label>Channel List</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/help/CL.uls</address>
+		<trait>0</trait>
+		<value />
+		<value>1</value>
+		<embedded_file>__ntfts/News.ntft</embedded_file>
+	</button>
+	<button>
+		<label>News</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/help/News.htm</address>
+		<trait>0</trait>
+		<value />
+		<value>1</value>
+		<embedded_file>__ntfts/News.ntft</embedded_file>
+	</button>
+	<button>
+		<label>FAQ</label>
+		<address>http://flipnote.hatena.com/ds/v2-xx/help/FAQ.htm</address>
+		<trait>0</trait>
+		<value />
+		<value>1</value>
+		<embedded_file>__ntfts/News.ntft</embedded_file>
+	</button>
+</ugo_xml>
