@@ -21,3 +21,5 @@ how to run?
 7. go to your network setting and make sure the first dns is 104.248.000.110 and the second is 008.008.008.008
 8. go to the proxy settings and set the proxy adress to the ip address of the device which is running it and the port has to be 8080
 9. if everything is done correctly you should be able to access flipnote hatena
+
+also if you go to all flipnote i already uploaded some however me if you want your flipnote to be deleted
