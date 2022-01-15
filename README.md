@@ -22,4 +22,7 @@ how to run?
 8. go to the proxy settings and set the proxy adress to the ip address of the device which is running it and the port has to be 8080
 9. if everything is done correctly you should be able to access flipnote hatena
 
-also if you go to all flipnote i already uploaded some however me if you want your flipnote to be deleted
+also if you go to all flipnotes i already uploaded some however contact me if you want your flipnote to be deleted
+
+also credits to pbsds for the hatena server however why it doesnt show as forked is so i could actually manage it coz well
+i always like to start with an empty repo
