@@ -32,3 +32,7 @@ i always like to start with an empty repo
 -  channel list
 -  command search [optional]
 -  creators room [optional]
+
+
+a message to pbsds:
+pbsds if you want me to take it down just contact me ok?
