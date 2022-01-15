@@ -26,3 +26,9 @@ also if you go to all flipnotes i already uploaded some however contact me if yo
 
 also credits to pbsds for the hatena server however why it doesnt show as forked is so i could actually manage it coz well
 i always like to start with an empty repo
+
+======== searching for people that want and can code these features =====
+-  comments
+-  channel list
+-  command search [optional]
+-  creators room [optional]
